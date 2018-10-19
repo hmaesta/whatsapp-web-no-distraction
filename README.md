@@ -1,6 +1,6 @@
 # 🚫 WhatsApp Web No Distraction
 
-![WhatsApp Web Tab with Notification](https://i.imgur.com/ybvXJCx.png | width=500)
+<img src="https://i.imgur.com/ybvXJCx.png" width="500" alt="WhatsApp Web Tab with Notification">
 
 If you like to keep WhatsApp Web loaded, but hates the notification icon: this extension is for you.
 
