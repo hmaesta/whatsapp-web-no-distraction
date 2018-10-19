@@ -6,6 +6,8 @@
 // @author       H.Maestá
 // @match        https://web.whatsapp.com
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/hmaesta/whatsapp-web-no-distraction/master/tampermonkey.user.js
+// @updateURL    https://raw.githubusercontent.com/hmaesta/whatsapp-web-no-distraction/master/tampermonkey.user.js
 // ==/UserScript==
 
 (function() {
